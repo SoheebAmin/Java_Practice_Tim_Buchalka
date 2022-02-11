@@ -8,5 +8,6 @@ public class ternaryOperator {
         System.out.println(assignBasedOnSomeBool);
 
         // SYNTAX: var-to-assign = bool-to-check ? value-if-true : value-if-false;
+
     }
 }
